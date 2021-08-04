@@ -1,9 +1,10 @@
 # Acerca de
 
-El objetivo del proyecto fue clasificar los precios de celulares en un rango de precio de 0 a 3, siendo 3 el más alto. Haciendo uso de herramientas de ML como K-means, SVC, Random Forest y más. Siendo SVC el clasificador que mostró el mejor desempeño.
+El objetivo del proyecto fue ajustar un modelo de regresión logística para predecir si una persona sufrirá o no un derrame cerebral dado características clínicas de paciente.
+El modelo logró un score mayor a 0.9 y se muestra su curva ROC
 
-Los datos fueron obtenidos de [Kaggle](https://www.kaggle.com/iabhishekofficial/mobile-price-classification), y el dataset se encuentra en la carpeta del código.
+Los datos fueron obtenidos de [Kaggle](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset), y el dataset se encuentra en la carpeta del código.
 
 **Autor: Eduardo González López**
 
-**Fecha del código y análisis: 07 Julio 2021**
+**Fecha del código y análisis: 09 Junio 2021**
